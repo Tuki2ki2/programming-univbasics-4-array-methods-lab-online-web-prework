@@ -1,6 +1,4 @@
 def using_include(array, element)
-array_example["A", "B", "C", "D"]
-array_example.include? "D"
 
 end
 
