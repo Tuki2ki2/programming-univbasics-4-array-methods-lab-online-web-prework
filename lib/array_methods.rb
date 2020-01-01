@@ -1,15 +1,13 @@
 def using_include(array, element)
-using_include.include? ("Nala")
+using_include.include? ("element")
 end
 
 def using_sort(array)
   using_sort.sort
-  sorted_sort= using_sort.sort
 end
 
 def using_reverse(array)
   using_reverse.reverse
-
 end
 
 def using_first(array)
